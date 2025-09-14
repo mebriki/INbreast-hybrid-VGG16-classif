@@ -34,7 +34,7 @@ If you use this code in your research or projects, please cite my master's thesi
 ## Acknowledgment
 Additionally, please acknowledge this repository in your work if you utilize this code. A simple statement such as:
 
-> "This work utilizes the code available at [repository link](https://github.com/iaminebriki/Breast-Cancer-Classification)"
+> "This work utilizes the code available at [repository link](https://github.com/mebriki/INbreast-hybrid-VGG16-classif)"
 
 would be greatly appreciated.
 
@@ -43,4 +43,4 @@ Thank you for your interest in my research!
 
 ---
 
-:rotating_light: For any bugs or questions, feel free to report an [issue](https://github.com/iamaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM/issues) :triangular_flag_on_post:
+:rotating_light: For any bugs or questions, feel free to report an [issue](https://github.com/mebriki/INbreast-hybrid-VGG16-classif/issues) :triangular_flag_on_post:

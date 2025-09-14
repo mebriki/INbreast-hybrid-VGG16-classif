@@ -10,4 +10,4 @@ I managed to get **AUC=0.98** with SVM and even better with MLP and Random Fores
 
 For more details, check full document [HERE](https://www.researchgate.net/publication/361441022_Medical_Images_Classification_Based_on_Deep_Features_Extraction_Exploiting_Transfer_Learning) :pushpin:
 
-:rotating_light: For any bugs or questions, feel free to report an [issue](https://github.com/iamaminebriki/Breast-Cancer-Classification-with-VGG16-and-SVM/issues) :triangular_flag_on_post:
+:rotating_light: For any bugs or questions, feel free to report an [issue](https://github.com/mebriki/INbreast-hybrid-VGG16-classif/issues) :triangular_flag_on_post:
